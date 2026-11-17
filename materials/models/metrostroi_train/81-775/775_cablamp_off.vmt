@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/metrostroi_train/81-775/775_cablamp_off"
+	"$model" "1"
+	"$surfaceprop" "glass"
+}

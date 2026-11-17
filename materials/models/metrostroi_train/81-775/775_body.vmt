@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/metrostroi_train/81-775/775_body_new"
+	"$bumpmap"	"models/metrostroi_train/81-775/775_body_n"
+	"$model"	"1"
+
+
+
+	"$surfaceprop"	"metal"
+}
